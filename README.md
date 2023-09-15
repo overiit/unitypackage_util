@@ -44,3 +44,5 @@ Options:
   -b, --base64                     Base64 encode output
   -h, --help                       Print help
 ```
+
+:)
