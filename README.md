@@ -1,6 +1,6 @@
 # unitypackage_util
 
-Requires `barcoderdev/FBX2glTF` to extract FBX in GLTF(glb) format.  Place the binary in the same folder, or in PATH.
+Requires `barcoderdev/FBX2glTF` to extract FBX in GLTF(glb) format. Place the binary in the same folder, or in PATH.
 
 ---
 
@@ -33,7 +33,7 @@ Extract package file
 Usage: unitypackage_util <PACKAGE> extract [OPTIONS] <GUID>
 
 Arguments:
-  <GUID>  
+  <GUID>
 
 Options:
   -o, --output-file <OUTPUT_FILE>  Extract to file
@@ -46,3 +46,4 @@ Options:
 ```
 
 :)D
+:D
